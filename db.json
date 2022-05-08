@@ -1,0 +1,44 @@
+{
+  "hero":[
+      {
+          "id": 0,
+          "name" : "Magneta"
+      },
+      {
+          "id": 1,
+          "name" : "Batmen"
+      },
+      {
+          "id": 2,
+          "name" : "Bathman"
+      },
+      {
+          "id": 3,
+          "name" : "Superman"
+      },
+      {
+          "id": 4,
+          "name" : "Someone"
+      },
+      {
+          "id": 5,
+          "name" : "Invisible man"
+      },
+      {
+          "id": 6,
+          "name" : "The flash"
+      },
+      {
+          "id": 7,
+          "name" : "Ms. Incredeble"
+      },
+      {
+          "id": 7,
+          "name" : "Mr. Incredeble"
+      },
+      {
+          "id": 8,
+          "name" : "Ice man"
+      }
+  ]
+}
